@@ -1,0 +1,18 @@
+{
+  "artifact_attestations": [],
+  "framework": {
+    "id": "priade",
+    "version": "2.11"
+  },
+  "governed": true,
+  "project_id": "frenchforleaders",
+  "repository": {
+    "host": "github.com",
+    "remote_fingerprint": "f97252f4e27af93ebebbebf3cf2ed16534bd044c85feee82a1fdc5e80a9e178e",
+    "slug": "ngns/frenchforleaders-priade"
+  },
+  "repository_id": "frenchforleaders-priade",
+  "repository_role": "companion",
+  "scenario": "governed-application",
+  "schema_version": "2.0"
+}

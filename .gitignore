@@ -1,0 +1,14 @@
+# Operator-local state and credentials
+/.runtime/
+/.env
+/.env.*
+!/.env.example
+
+# Local working files
+.DS_Store
+._*
+*.swp
+*.swo
+/node_modules/
+/dist/
+/tmp/

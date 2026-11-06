@@ -1,0 +1,15 @@
+{
+  "binding_owner": "frenchforleaders-priade",
+  "framework": {
+    "id": "priade",
+    "version": "2.11"
+  },
+  "governed": true,
+  "project_id": "frenchforleaders",
+  "repository_bindings": [
+    ".priade/repository-bindings/frenchforleaders-website.json",
+    ".priade/repository-bindings/frenchforleaders-priade.json"
+  ],
+  "scenario": "governed-application",
+  "schema_version": "2.0"
+}
